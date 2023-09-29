@@ -1,5 +1,5 @@
 export const config = {
-    api: "https://url-shortener-backend-smoky.vercel.app",
+    api: "https://url-shortener-backend-delta.vercel.app",
     client: "http://localhost:3000"
 }
 
