@@ -1,6 +1,6 @@
 export const config = {
     api: "https://url-shortener-backend-delta.vercel.app",
-    client: "http://localhost:3000"
+    client: "https://url-shortener-frontend-xi.vercel.app"
 }
 
 //for backend local    http://localhost:4000
