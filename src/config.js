@@ -1,6 +1,6 @@
 export const config = {
-    api: "https://url-shortener-backend-0zd7.onrender.com",
-    client: "https://url-shortener-frontend-m4ex.onrender.com"
+    api: "http://localhost:4000",
+    client: "http://localhost:3000"
 }
 
 //for backend local    http://localhost:4000
